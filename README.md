@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### My skills
+[![Flu7fy's GitHub stats](https:/github-readme-statsit.vercel.app/api?username=Flu7fy)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Flu7fy/Flu7fy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->https://github-readme-statsit.vercel.app/
