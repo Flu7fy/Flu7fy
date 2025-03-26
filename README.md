@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <details>
-<summary>My skills🖥️</summary>
+<summary>My stats🖥️</summary>
 
 [![Anurag's GitHub stats](https://github-readme-statsit-git-main-flu7fys-projects.vercel.app/api?username=Flu7fy&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
